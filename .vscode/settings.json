@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+    "files.associations": {
+        "*.ejs": "html",
+        "__tree": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
+}
