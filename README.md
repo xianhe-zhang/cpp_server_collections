@@ -4,9 +4,9 @@ This repo is a practice to build websokcet and http servers from scratch using C
 ## Author
 Xianhe Zhang
 
-## How to run the project?
+## Sub-Projects
 - Websocket
   - https://mayaposch.wordpress.com/2015/09/16/creating-a-websocket-server-with-websocket/
   - Websocket++ library
-  - 
+  
 - Http
